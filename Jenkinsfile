@@ -1,4 +1,4 @@
-<<<<<<< Updated upstream
+
 pipeline {
     agent any // Run on any available node (or agent)
 
@@ -35,7 +35,7 @@ pipeline {
         }
     }
 }
-=======
+
 pipeline {
     agent any // Run on any available node (or agent)
 
@@ -72,4 +72,4 @@ pipeline {
         }
     }
 }
->>>>>>> Stashed changes
+
